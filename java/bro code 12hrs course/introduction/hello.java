@@ -1,4 +1,5 @@
-public class newline {
+
+public class hello {
     public static void main(String[] args) {
         System.out.print("hello");// print is used to print message 
         System.out.println("       my name is teja ");// println is used to print mwssage in new line
