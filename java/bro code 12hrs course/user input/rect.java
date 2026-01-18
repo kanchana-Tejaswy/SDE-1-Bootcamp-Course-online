@@ -26,3 +26,9 @@ public class rect {
              scanner.close();
          }           
 }
+/*  
+expected output 
+Enter the width : 8.4
+Enter the height : 3.453
+The area of the rectangel 29.0052cm²
+*/
