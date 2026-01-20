@@ -12,6 +12,8 @@ public class StrFun{
     System.out.println("Email: " + email);
 }
 }
-/* Name: tejaswy
+/*
+out put 
+Name: tejaswy
 Address: 123 Main St, hyd, india
 Email: mail2tejaswy@gmail.com  */
